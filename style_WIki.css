@@ -26,7 +26,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: black;
-    background: linear-gradient(#000000, #252525);
+    background: linear-gradient(#1f1f1f, #252525);
     display: flex;
     flex-direction: column;
     min-height: 0px;
@@ -416,4 +416,5 @@ footer p {
     width: 100%;
     border-radius: 50px;
 }
+
 }
